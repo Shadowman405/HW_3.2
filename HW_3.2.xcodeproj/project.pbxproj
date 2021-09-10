@@ -11,6 +11,7 @@
 		BFB5E09826EBCB1800E09BA8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFB5E09726EBCB1800E09BA8 /* ContentView.swift */; };
 		BFB5E09A26EBCB1D00E09BA8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BFB5E09926EBCB1D00E09BA8 /* Assets.xcassets */; };
 		BFB5E09D26EBCB1D00E09BA8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BFB5E09C26EBCB1D00E09BA8 /* Preview Assets.xcassets */; };
+		BFB5E0A526EBCB6300E09BA8 /* ColorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFB5E0A426EBCB6300E09BA8 /* ColorView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		BFB5E09926EBCB1D00E09BA8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BFB5E09C26EBCB1D00E09BA8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		BFB5E09E26EBCB1D00E09BA8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BFB5E0A426EBCB6300E09BA8 /* ColorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				BFB5E09526EBCB1800E09BA8 /* HW_3_2App.swift */,
 				BFB5E09726EBCB1800E09BA8 /* ContentView.swift */,
+				BFB5E0A426EBCB6300E09BA8 /* ColorView.swift */,
 				BFB5E09926EBCB1D00E09BA8 /* Assets.xcassets */,
 				BFB5E09E26EBCB1D00E09BA8 /* Info.plist */,
 				BFB5E09B26EBCB1D00E09BA8 /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BFB5E0A526EBCB6300E09BA8 /* ColorView.swift in Sources */,
 				BFB5E09826EBCB1800E09BA8 /* ContentView.swift in Sources */,
 				BFB5E09626EBCB1800E09BA8 /* HW_3_2App.swift in Sources */,
 			);
